@@ -1,3 +1,7 @@
 p {
     color: darkred;
 }
+
+ul {
+    list-style: none;
+}
